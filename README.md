@@ -13,18 +13,6 @@ A simple and lightweight utility to simplify `console.log` statements in JavaScr
 npm install logzap
 ```
 
-### For Local Development (Testing Locally):
-1. Navigate to your package directory and run:
-   ```bash
-   npm link
-   ```
-
-2. In your test project directory, link the package:
-   ```bash
-   npm link logzap
-   ```
-
----
 
 ## **Usage**
 
