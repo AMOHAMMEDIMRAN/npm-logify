@@ -1,0 +1,23 @@
+{
+  "name": "logify",
+  "version": "1.0.0",
+  "description": "Logify is a minimalistic utility that simplifies logging in JavaScript. Replace `console.log()` with the concise `write()` function for cleaner code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "utility",
+    "simplify",
+    "write",
+    "logging"
+  ],
+  "author": "Mohammed Imran",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AMOHAMMEDIMRAN/npm-logify.git"
+  }
+}

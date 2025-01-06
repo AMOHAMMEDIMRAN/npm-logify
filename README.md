@@ -1,6 +1,6 @@
 
 
-# **writelog**
+# **logify**
 
 A simple and lightweight utility to simplify `console.log` statements in JavaScript. Instead of writing `console.log()`, just use `write()` for cleaner and shorter code.
 
@@ -10,7 +10,7 @@ A simple and lightweight utility to simplify `console.log` statements in JavaScr
 
 ### Using npm:
 ```bash
-npm install writelog
+npm install logify
 ```
 
 ### For Local Development (Testing Locally):
@@ -21,7 +21,7 @@ npm install writelog
 
 2. In your test project directory, link the package:
    ```bash
-   npm link writelog
+   npm link logify
    ```
 
 ---
@@ -30,7 +30,7 @@ npm install writelog
 
 ### Import the Package
 ```javascript
-import write from "writelog";
+import write from "logify";
 ```
 
 ### Example
@@ -79,7 +79,7 @@ This project is licensed under the **ISC License**.
 
 **Mohammed Imran**  
 Junior Frontend Developer  
-GitHub: [@Immucoder](https://github.com/Immucoder)
+GitHub: [@AMOHAMMEDIMRAN](https://github.com/AMOHAMMEDIMRAN)
 
 ---
 
