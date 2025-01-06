@@ -1,6 +1,6 @@
 
 
-# **logify**
+# **logzap**
 
 A simple and lightweight utility to simplify `console.log` statements in JavaScript. Instead of writing `console.log()`, just use `write()` for cleaner and shorter code.
 
@@ -10,7 +10,7 @@ A simple and lightweight utility to simplify `console.log` statements in JavaScr
 
 ### Using npm:
 ```bash
-npm install logify
+npm install logzap
 ```
 
 ### For Local Development (Testing Locally):
@@ -21,7 +21,7 @@ npm install logify
 
 2. In your test project directory, link the package:
    ```bash
-   npm link logify
+   npm link logzap
    ```
 
 ---
@@ -30,7 +30,7 @@ npm install logify
 
 ### Import the Package
 ```javascript
-import write from "logify";
+import write from "logzap";
 ```
 
 ### Example

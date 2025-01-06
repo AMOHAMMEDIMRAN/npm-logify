@@ -1,5 +1,5 @@
 {
-  "name": "logify",
+  "name": "logzap",
   "version": "1.0.0",
   "description": "Logify is a minimalistic utility that simplifies logging in JavaScript. Replace `console.log()` with the concise `write()` function for cleaner code.",
   "main": "index.js",

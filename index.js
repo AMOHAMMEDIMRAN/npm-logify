@@ -1,7 +1,7 @@
 // Alternate of console.log()
 
-function logify(data){
+function logzap(data){
     console.log(data);
 };
 
-module.exports = logify;
+module.exports = logzap;
