@@ -1,6 +1,5 @@
-Sure! Here’s the full content in the proper format for `README.md`:
 
-```markdown
+
 # **writelog**
 
 A simple and lightweight utility to simplify `console.log` statements in JavaScript. Instead of writing `console.log()`, just use `write()` for cleaner and shorter code.
@@ -79,14 +78,15 @@ This project is licensed under the **ISC License**.
 ## **Author**
 
 **Mohammed Imran**  
-Web Developer  
-GitHub: [@AMOHAMMEDIMRAN](https://github.com/AMOHAMMEDIMRAN)
+Junior Frontend Developer  
+GitHub: [@Immucoder](https://github.com/Immucoder)
 
 ---
 
 ## **Keywords**
 
 `console`, `log`, `utility`, `simplify`, `write`, `console.log`
-```
 
-Just copy this content and save it as `README.md` in your project. Let me know if you need anything else!
+---
+
+Let me know if you'd like any changes or additions! 😊
